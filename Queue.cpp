@@ -1,4 +1,5 @@
 #include "Queue.h"
+#include <stdexcept>
 
 Queue::Queue()
     : c()

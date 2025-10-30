@@ -2,7 +2,6 @@
 #define QUEUE_H
 
 #include <deque>
-#include <exception>
 
 class Queue
 {
